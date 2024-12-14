@@ -16,9 +16,11 @@
 
 .cover {
     display: grid;
-    min-block-size: 100vh;
+    height: 100vh;
+    min-height: 668px;
     padding: clamp(10px, 0.0286rem + 2.5445vw, 20px);
 }
+
 
 .rec {
     align-items: center;

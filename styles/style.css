@@ -10,8 +10,9 @@
     line-height: 23px;
 }
 
+
 .shadow {
-    text-shadow: 3px 3px 0 var(--accent-color, #ff0070);
+    text-shadow: 4px 4px 0 var(--accent-color, #ff0070);
 }
 
 .cover {
@@ -135,9 +136,11 @@ h4.title {
     gap: 20px;
 }
 
+
 .article {
     display: grid;
     gap: 10px;
+    line-height: 23.4px;
 }
 
 .gallery-list {
